@@ -1,7 +1,7 @@
 <?php
 
 $nomeCompleto = "Radaméz Oliveira";
-$idade = 39;
+$idade = 40;
 $salario = 3.500;
 $salario1 = 4.500;
 $nomeAtivo = true;
