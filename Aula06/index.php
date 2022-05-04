@@ -1,5 +1,5 @@
 <?php
-$idade = 18;
+$idade = 19;
 $senha = "123";
 $acesso = true;
 
@@ -16,7 +16,7 @@ echo "<br><br>";
 //== igual
 //=== idêntico nome e tipo
 //!= diferente, também pode ser <>
-//!== diferente nome e tipo
+//!== diferente nome e tipo 
 
 if($senha == "123"){
     echo "Acesso autorizado, nivel 1";
